@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/tiger-scrolls/precache-manifest.7c3183ce4ff73525333736514a501c3e.js"
+  "/tiger-scrolls/precache-manifest.000b69d7c6f79280130b5aa760ebee64.js"
 );
 
 workbox.clientsClaim();

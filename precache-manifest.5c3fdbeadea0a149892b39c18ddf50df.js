@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/tiger-scrolls/static/js/main.b63f24b6.chunk.js"
   },
   {
-    "revision": "bb03da8c8c17ee0ffab2",
-    "url": "/tiger-scrolls/static/js/2.bb03da8c.chunk.js"
+    "revision": "61f6a5d50837c9f15abe",
+    "url": "/tiger-scrolls/static/js/2.61f6a5d5.chunk.js"
   },
   {
     "revision": "d614c2962c6af3f5e9f6",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/tiger-scrolls/static/js/6.b30d8b38.chunk.js"
   },
   {
-    "revision": "f5f5fc336dbb3580bbd1",
-    "url": "/tiger-scrolls/static/js/runtime~main.f5f5fc33.js"
+    "revision": "508a5630266a86de40a0",
+    "url": "/tiger-scrolls/static/js/runtime~main.508a5630.js"
   },
   {
-    "revision": "3f946c2080c255c48f97",
-    "url": "/tiger-scrolls/static/js/8.3f946c20.chunk.js"
+    "revision": "81aee2e2014f06e30cf8",
+    "url": "/tiger-scrolls/static/js/8.81aee2e2.chunk.js"
   },
   {
     "revision": "718026d4e0f8253405d7",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/tiger-scrolls/static/css/main.341541d8.chunk.css"
   },
   {
-    "revision": "75209d3792eb8a74f07bd16fe90655ac",
+    "revision": "161b83a13c97c8f90cdac7487facc6e1",
     "url": "/tiger-scrolls/index.html"
   }
 ];
